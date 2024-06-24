@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+    .womens-products{
+        grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+       
+    }
+    .category{
+        display: none;
+    }
+}

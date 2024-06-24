@@ -1,0 +1,28 @@
+import { onAuthStateChanged } from "firebase/auth";
+import Login  from "./pages/account/Login";
+import SignUp  from "./pages/account/SignUp";
+import { auth } from "./backend/Firebase";
+
+const [user, setUser] = useState(null)
+
+  // useEffect(() => {
+  //   onAuthStateChanged(auth , user => {
+  //     if(user){
+  //       console.log("hii " , user);
+  //       setUser(user)
+  //     }
+  //     else{
+  //       console.log("you are now logged out");
+  //       setUser(null)
+  //     }
+  //   })
+  // }, [])
+
+  // if (user === null) {
+  //   return(
+  //   <div className="flex justify-around">
+  //     <Login/>
+  //     <SignUp/>
+  //   </div>
+  //   )
+  // }

@@ -1,0 +1,18 @@
+@media (max-width: 768px) {
+    .singleProduct{
+        flex-direction: column;
+    }
+    .singleProduct > .product-image > img{
+        width: 13rem;
+        margin-bottom: 10px;
+    }
+    .product-info > h2{
+        font-size: 23px;
+    }
+    .product-info > p{
+        font-size: 15px;
+    }
+    .shop-btn > button{
+        font-size: 15px;
+    }
+}

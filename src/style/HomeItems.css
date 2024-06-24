@@ -1,0 +1,12 @@
+
+.card{
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .homeItems{
+        grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+       
+    }
+
+}

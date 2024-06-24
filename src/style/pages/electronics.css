@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+    .electronics-products{
+        grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+       
+    }
+}
