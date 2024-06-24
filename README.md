@@ -1,8 +1,14 @@
-# React + Vite
+# MyMart E-commerce Website 😉
+Welcome to **MyMart**, your one-stop online shop for all your needs! Our platform offers a wide range of products, from electronics to fashion, and more.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Contact
+For any queries or feedback, feel free to reach out to us at:
 
-Currently, two official plugins are available:
+- **Email**: akashkumar26858@gmail.com
+- **Twitter**: [@MyMart](https://www.linkedin.com/in/akash-kumar-mandal-20654921b/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Visit Our Shop
+
+- **myMart** : [Click Here](https://my-mart-kappa.vercel.app/)
+
+Happy Shopping at MyMart! 😉
